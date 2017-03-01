@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJIAHCAJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for miniESP\Design Rule Check - miniESP.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
